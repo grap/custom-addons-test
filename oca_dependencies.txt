@@ -18,10 +18,3 @@ odoo-addons-cis https://github.com/grap/odoo-addons-cis.git 7.0
 odoo-addons-cpo https://github.com/grap/odoo-addons-cpo.git 7.0
 odoo-addons-misc https://github.com/grap/odoo-addons-misc.git 7.0
 odoo-addons-grap https://github.com/grap/odoo-addons-grap.git 7.0
-
-
-OK
-https://openerp.grap.coop/?debug&#id=780410&view_type=form&model=account.move&menu_id=172&action=170
-
-KO
-https://openerp.grap.coop/?debug&#id=780447&view_type=form&model=account.move&menu_id=172&action=170
