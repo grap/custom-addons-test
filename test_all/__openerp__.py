@@ -177,7 +177,6 @@ Copyright, Authors and Licence:
         'sale_reporting',
         'sale_stock',
         'sale_visible_tax',
-        'sentry_logger',
         'simple_tax_account',
         'simple_tax_purchase',
         'simple_tax_sale',
